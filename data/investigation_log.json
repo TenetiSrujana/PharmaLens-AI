@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-10-15T14:10:59+05:30",
+    "drug": "lixisenatide",
+    "reaction": "Balance disorder",
+    "status": "Reviewed",
+    "note": "",
+    "matching_rows": 1,
+    "serious_flag_rows": 1,
+    "death_flag_rows": 0,
+    "hospitalisation_flag_rows": 1
+  }
+]
